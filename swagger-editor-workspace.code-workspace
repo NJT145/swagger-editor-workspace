@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css"
+  }
+}
